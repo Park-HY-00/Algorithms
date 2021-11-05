@@ -1,1 +1,1 @@
-# algorithms_BinarySearchTree
+# BinarySearchTree

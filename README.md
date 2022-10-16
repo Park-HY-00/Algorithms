@@ -6,3 +6,4 @@ Binary Search Tree 구현
 ### SortingAlgorithm.cpp (input file: "Sample Data.txt")
 Quick sort를 활용한 1~99,999까지의 정수 정렬
 ## 3. 백준 알고리즘
+2750번
